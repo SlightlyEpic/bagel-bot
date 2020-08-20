@@ -5,5 +5,8 @@
     "author": "SlightlyEpic",
     "dependencies": {
         "discord.js": "^12.3.1"
+    },
+    "scripts": {
+        "start": "index.js"
     }
 }
